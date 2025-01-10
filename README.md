@@ -42,7 +42,7 @@ NLP | LLMs | AI | Industry 4.0
 -->
 
 # Hi there! 👋 I'm Vikneshwara
-![Profile Views](https://komarev.com/ghpvc/?username=manthan410)
+![Profile Views](https://komarev.com/ghpvc/?username=Vikneshwara-kumar)
 
 <div align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1MDkxNzIsIm5iZiI6MTczNjUwODg3MiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEwVDExMzQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ODBlYjYyMzM0YjNiZjIwZDQ3OTViOGRkYThjMzBmZTk3ZDE4MzM3NDQwZjQ5ODcwNWYzMzVjODNlZWJmNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uiW7vOwqFdIGY3IN0sYcfrbAX08iTCgYpq-Df8KAEBA" width="500">
