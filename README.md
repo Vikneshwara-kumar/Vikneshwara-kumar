@@ -90,7 +90,7 @@ NLP | LLMs | AI | Industry 4.0
 ## Top Projects
 ### GenAI/LLMs Based Projects
 - **MultiModal-RAG based talk to PDF:**
-  - [GitHub Repo w/ Demo Video](https://github.com/Vikneshwara-kumar/RAG_Based_Talk_to_PDF)
+  - [GitHub Repo](https://github.com/Vikneshwara-kumar/RAG_Based_Talk_to_PDF)
 
 ### DL/ML Projects
 - **Real time muscle strain predection system**
