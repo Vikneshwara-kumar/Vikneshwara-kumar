@@ -92,10 +92,6 @@ NLP | LLMs | AI | Industry 4.0
 - **MultiModal-RAG based talk to PDF:**
   - [GitHub Repo w/ Demo Video](https://github.com/Vikneshwara-kumar/RAG_Based_Talk_to_PDF)
 
-- **Finetuned LLaMA2 on DockerNL commands:**
-  - using PEFT on 4bit quantized loaded model
-  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/finetune-llama2-for-docker_command)
-
 ### DL/ML Projects
 - **Real time muscle strain predection system**
   - [GitHub Repo](https://github.com/Vikneshwara-kumar/Real-time-Muscle-Strain-Prediction-System)
