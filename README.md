@@ -89,7 +89,10 @@ NLP | LLMs | AI | Industry 4.0
 
 ## Top Projects
 ### GenAI/LLMs Based Projects
-- **MultiModal-RAG based talk to PDF:**
+- **AI-Powered PRD Analysis System:**
+  - [GitHub Repo](https://github.com/Vikneshwara-kumar/AI_Agent)
+    
+- **RAG based talk to PDF:**
   - [GitHub Repo](https://github.com/Vikneshwara-kumar/RAG_Based_Talk_to_PDF)
 
 ### DL/ML Projects
